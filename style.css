@@ -1,0 +1,33 @@
+
+            body{
+    background-color:rgb(180, 180, 230);
+}
+hr{
+    border-style:dotted none none;
+    border-color: gray;
+    border-width:5px;
+    width:10%;
+}
+h1{
+    color:#66bfbf;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align:center;
+}
+h2{
+    color:#66bfbf;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    color:#66bfbf;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align: center;
+}
+
+  a{
+    text-decoration: none;
+    color:rgb(48, 6, 235);
+  }
